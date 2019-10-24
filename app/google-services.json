@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "397427888254",
+    "firebase_url": "https://reviewme-7cc71.firebaseio.com",
+    "project_id": "reviewme-7cc71",
+    "storage_bucket": "reviewme-7cc71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397427888254:android:5564fe84b6bc39d6ba082f",
+        "android_client_info": {
+          "package_name": "com.michael.reviewme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397427888254-0skddca1kto2rn3tuaf64mpa0gfs1as4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.michael.reviewme",
+            "certificate_hash": "fa99829a4145946bda09992be66d7692c425a75e"
+          }
+        },
+        {
+          "client_id": "397427888254-0rrrpkpceu8uvt80arj5gqmbur1deldg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.michael.reviewme",
+            "certificate_hash": "a9a482e78b47a0af76832da931fa1601015fe92e"
+          }
+        },
+        {
+          "client_id": "397427888254-0vi7a53rt3iq7vg4qs6v3ecnpo4q8igh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsaiuOMFsZm8jFVRA6EpyFCFF3W6voCTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397427888254-0vi7a53rt3iq7vg4qs6v3ecnpo4q8igh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
